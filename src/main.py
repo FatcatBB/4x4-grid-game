@@ -1,3 +1,6 @@
+# 4×4华容道小游戏
+# 是个练手的小项目，提交与20250505日
+
 import sys
 import pygame
 import random

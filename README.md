@@ -1,6 +1,7 @@
 # 4x4 Grid Game
 
 4×4华容道小游戏
+是个练手的小项目，提交与20250505日
 
 This project is a simple 4x4 grid game implemented in Python. The game allows players to interact with a grid, making moves and checking for win conditions.
 
